@@ -191,13 +191,9 @@
 		"name": "RGB\nTest",
 		"title": "Hold for 3 seconds for RGB color test"
 	},
-	{
-		"name": "Bat\nNum",
-		"title": "Battery Show"
-	},
-	{
+    {
 		"name": "Keyb\nIndicator",
-		"title": "Keyboard Indicator RGB"
+		"title": "Keyboard Indicator config"
 	}
 ]
 }
