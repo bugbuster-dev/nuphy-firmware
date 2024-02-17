@@ -2,8 +2,9 @@
 [nuphy_air96_v2_ansi_via.6450219c.bin](https://github.com/bugbuster-dev/nuphy-firmware/blob/main/nuphy_air96_v2_ansi_via.6450219c.bin)
 --------------------------------
 
-* caps/num lock indicator can be configured to set indicator off, on side led or on the lock key. (fork from
-https://github.com/nuphy-src/qmk_firmware/commit/1389eccac3457edd52b100d2c78a7a7fde90dd77)
+nuphy air96 v2 qmk firmware forked from https://github.com/nuphy-src/qmk_firmware/commit/1389eccac3457edd52b100d2c78a7a7fde90dd77
+
+* caps/num lock indicator can be configured to set indicator off, on side led or on the lock key
 * default rgb matrix "reactive wide"  
 * default num lock indicator on num lock key led
 
