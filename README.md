@@ -10,11 +10,10 @@ https://github.com/nuphy-src/qmk_firmware/commit/1389eccac3457edd52b100d2c78a7a7
 keyboard indicator configuration
 --------------------------------
 
-load "nuphy-air96-v2-via-keyb_indicator_config.json" definition file with usevia.app and map the custom key "Keyboard Indicator config".
-
-press "Keyboard Indicator config"  
-press **c** or **n** for caps/num lock selection followed by 0|1|2 to select indicator led: 0=off, 1=side led, 2=lock key
-press red/green/blue values (0..255) each followed by <enter> key to select color  
+1.  load [nuphy-air96-v2-via-keyb_indicator_config.json](https://github.com/bugbuster-dev/nuphy-firmware/blob/main/nuphy-air96-v2-via-keyb_indicator_config.json) definition file with usevia.app and map the custom key "Keyboard Indicator config".
+2.  press "Keyboard Indicator config"  
+3.  press **c** or **n** for caps/num lock selection followed by 0|1|2 to select indicator led: 0=off, 1=side led, 2=lock key
+4.  press red/green/blue values (0..255) each followed by "enter" key to select color  
 
 examples
 --------
